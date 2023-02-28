@@ -1,3 +1,5 @@
+![logo](https://github.com/jayed-phero/jayed-phero/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
+
 # 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 🔭 I’m currently working on MERN Stack Development.<br>👯 I’m looking to collaborate on new MERN stack related projects.<br>🌱 I’m currently learning React native , Redux and Advanced Node & mongo.<br>💬 Ask me about  React, MongoDB, JavaScript and Freelancing opportunities etc.<br>⚡ Fun fact If you are a Programmer you need to keep in mind that situation when you got an error in Programming.
